@@ -1,21 +1,26 @@
 _repo: His-Little-World-The-Story-of-Hunch-Badeau_54103
-_version: 0.1.0
+_version: 0.2.0
 contributor:
   illustrator:
     agent_name: Kimball, Alonzo
-    birthdate: &id001 1874
+    birthdate: 1874
     deathdate: 1923
     gutenberg_agent_id: '8161'
     url: http://www.gutenberg.org/2009/agents/8161
+covers:
+- cover_type: archival
+  image_path: 54103-h/images/cover.jpg
 creator:
   author:
     agent_name: Merwin, Samuel
-    birthdate: *id001
+    birthdate: 1874
     deathdate: 1936
     gutenberg_agent_id: '2744'
     url: http://www.gutenberg.org/2009/agents/2744
     wikipedia: https://en.wikipedia.org/wiki/Samuel_Merwin_%28writer%29
 description: ''
+edition_identifiers:
+  edition_id: http://www.gutenberg.org/ebooks/54103#His-Little-World-The-Story-of-Hunch-Badeau
 gutenberg_issued: '2017-02-03'
 gutenberg_type: Text
 identifiers:
